@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    background-color: blue;
+    font-family: serif;
+}
+p{
+  color: rgb(207, 16, 245);
+  font-size:x-large; 
+}
+h3{
+    color: orange;
+    background: yellow;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    color: black;
+    background: rgb(192, 212, 151);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
