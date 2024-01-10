@@ -1,0 +1,17 @@
+body{
+    background-color: lightgray
+}
+h1{
+    background-color: rgb(253, 229, 233);
+    color: maroon;
+}
+p{
+    color: gray;
+}
+ul{
+    color: rgb(60, 158, 60);
+}
+h3{
+    color: rgb(228, 208, 27);
+    background-color: whitesmoke;
+}
