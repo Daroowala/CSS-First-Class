@@ -9,10 +9,13 @@ p{
     color: gray;
     font-size: large;
 }
-ul{
-    
+span{
+   background-color: rgb(241, 241, 188); 
+   color: green;
 }
-
+ul{
+    color: grey;
+}
 h3{
     color: rgb(228, 208, 27);
     background-color: whitesmoke;
